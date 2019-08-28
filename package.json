@@ -2,9 +2,9 @@
   "name": "gitlearn",
   "version": "1.0.0",
   "description": "a simple learn CI and node",
-  "main": "test.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
