@@ -2,7 +2,7 @@
   "name": "gitlearn",
   "version": "1.0.0",
   "description": "a simple learn CI and node",
-  "main": "",
+  "main": "test.js",
   "scripts": {
     "test": "node test.js"
   },
