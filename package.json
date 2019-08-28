@@ -1,0 +1,20 @@
+{
+  "name": "gitlearn",
+  "version": "1.0.0",
+  "description": "a simple learn CI and node",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binball72956/gitlearn.git"
+  },
+  "keywords": [],
+  "author": "zhengbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binball72956/gitlearn/issues"
+  },
+  "homepage": "https://github.com/binball72956/gitlearn#readme"
+}
