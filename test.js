@@ -6,3 +6,5 @@ function square(a) {
 
 assert.equal(square(3), 9)
 
+// good time
+
